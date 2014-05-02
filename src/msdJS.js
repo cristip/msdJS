@@ -750,7 +750,74 @@ var msdJS = {
 		C:{
 			ro_RO:"Conjunție",
 			en_US:"Conjunction",
-			
+			1:{
+				ro_RO:"Tip",
+				en_US:"Type",
+				c:{
+					ro_RO:"coordonare",
+					en_US:"coordinating"
+				},
+				s:{
+					ro_RO:"subordonare",
+					en_US:"subordonating"
+				}
+			},
+			2:{
+				ro_RO:"Formă",
+				en_US:"Formation",
+				s:{
+					ro_RO:"simplă",
+					en_US:"simple"
+				},
+				c:{
+					ro_RO:"compusă",
+					en_US:"compound",
+				}
+			},
+			3:{
+				ro_RO:"Tip coordonare",
+				en_US:"Coord Type",
+				s:{
+					ro_RO:"simplă",
+					en_US:"simple"
+				},
+				r:{
+					ro_RO:"repetit",
+					en_US:"repetit",
+				},
+				c:{
+					ro_RO:"corelată",
+					en_US:"corelat"
+				}
+			},
+			4:{
+				ro_RO:"Subtip",
+				en_US:"Sub-Type",
+				z:{
+					ro_RO:"negativ",
+					en_US:"negative"
+				},
+				p:{
+					ro_RO:"pozitiv",
+					en_US:"positive"
+				}
+			},
+			5:{
+				ro_RO:"Clitic",
+				en_US:"Clitic",
+				y:{
+					ro_RO:"da",
+					en_US:"yes"
+				},
+				n:{
+					ro_RO:"nu",
+					en_US:"no"
+				}
+			}
+		},
+		M:{
+			ro_RO:"Numeral",
+			en_US:"Numeral"
 		}
 
 	},
