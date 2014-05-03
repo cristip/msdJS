@@ -1085,6 +1085,7 @@ var msdJS = {
 			var currentChar = value.charAt(index)
 			if(currentChar == "-")
 			{
+				index++;
 				continue;
 			}
 			try{
